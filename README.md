@@ -1,0 +1,1 @@
+nbox app is a Spring Boot application that allows you to log in using your GitHub account. With this app, you can send, reply to, and read messages from other users who have also logged in with their GitHub accounts.
